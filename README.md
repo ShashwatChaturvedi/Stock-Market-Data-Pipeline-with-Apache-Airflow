@@ -46,3 +46,18 @@ Contact
 =======
 
 The Astronomer CLI is maintained with love by the Astronomer team. To report a bug or suggest a change, reach out to our support.
+![airflow-1 1](https://github.com/user-attachments/assets/a8b5a9c9-2dbf-4ac4-bb23-48c39acf41e7)
+![aiflow-1 2](https://github.com/user-attachments/assets/f5a093ea-91ab-411f-b84f-38c73aadfc6d)
+![airflow-2](https://github.com/user-attachments/assets/70c39615-f1e4-4bb7-8765-6f9c5ac11c05)
+![airflow-3](https://github.com/user-attachments/assets/51cd61a7-ba69-45c3-8e2a-f5aa54e4f823)
+![airflow-dag](https://github.com/user-attachments/assets/475438d0-4d61-490e-b07c-533174550da5)
+![airflow-tasks](https://github.com/user-attachments/assets/110d9e82-70b2-4538-bc4e-5393
+![aiflow-requirements](https://github.com/user-attachments/assets/e69eb52f-9ba0-4ca2-9456-d578ec9b3efb)
+8e563503)
+![airflow-minio](https://github.com/user-attachments/assets/c0afb6d7-4ea9-4048-81c2-500332d02d13)
+![airflow-spark master](https://github.com/user-attachments/assets/14cd31a6-d728-4b78-b45c-ad6ad9777deb)
+![airflow-spark worker](https://github.com/user-attachments/assets/f0fc9afd-f136-43fa-a2ef-f6ceef6bce4a)
+![airflow-Metabase](https://github.com/user-attachments/assets/b78bc287-570a-46ef-a9ef-88abf3d8bcb7)
+![airflow-slack](https://github.com/user-attachments/assets/b1366660-c4f6-4965-a35b-22bff5f8fe0e)
+
+
